@@ -1,6 +1,6 @@
--- Versjonskontrollens Reise --
+-- Versjonskontrollens lange lange Reise --
 
-På universitets sti jeg trår,
+På universitetets sti jeg trår,
 Versionskontroll jeg nå skal lære.
 Commits, branches, og mergekommandoer,
 I kodeskogen, jeg finner mine spor.
@@ -10,5 +10,8 @@ Historien i filene jeg forstår nå lett.
 Dagens dato, en ny start, en tid for vekst,
 Med versionskontroll, jeg tar den beste fest.
 
+<<<<<<< HEAD
 Dato: <11.02.2023> 
 Universitet: <Uit>
+=======
+>>>>>>> 875c10c98c5faa22f47c599afb333c8d11e862e8
